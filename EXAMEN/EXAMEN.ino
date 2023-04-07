@@ -72,7 +72,7 @@ void loop()
   while (Serial.available() == 0)
   {
   }
-  option = Serial.parseInt(); // Asignamos un valor a la variable num
+  option = Serial.parseInt(); 
 
   switch (option)
   {
