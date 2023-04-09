@@ -16,3 +16,4 @@ Casa que simula la tecnología de domótica en casa habitación.
 
 - Programado en C++ con IDE arduino.
 
+https://www.tinkercad.com/things/baQCHLHLAU0?sharecode=D7w-7SjzDj_RKaPbCiTmvh2puac3Jiy9k2efMKL9k6o
