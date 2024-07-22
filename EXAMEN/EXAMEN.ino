@@ -46,8 +46,10 @@ void setup()
   pinMode(6, OUTPUT); // Second Yellow LED
 
   pinMode(7, OUTPUT); // First Red LED
-  pinMode(8, OUTPUT); // Second Red LED
+  pinMode(8, OUTPUT); // Second Red LED 
 }
+
+
 
 void loop()
 {
