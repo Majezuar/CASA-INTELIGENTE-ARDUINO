@@ -49,8 +49,7 @@ void setup()
   pinMode(8, OUTPUT); // Second Red LED 
 }
 
-
-
+// equisde
 void loop()
 {
   // ERASE
